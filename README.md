@@ -23,7 +23,9 @@ sin avisar, dejando la imagen rota en silencio.
 | `media-stack/prowlarr.png` | Logo de Prowlarr, ídem |
 | `media-stack/bazarr.png` | Logo de Bazarr, ídem |
 | `media-stack/trailarr.png` | Logo de Trailarr, ídem |
-| `media-stack/obiwan.png` | El sable de ObiWan, para los avisos del sistema (fallas de servicios) |
+| `media-stack/jellyfin.png` | Logo de Jellyfin, ídem |
+| `media-stack/qbittorrent.png` | Logo de qBittorrent, ídem |
+| `media-stack/obiwan.png` | El sable de ObiWan, de respaldo para lo que no tiene logo propio (Caddy, tailscaled, el montaje, los timers) |
 
 Los de `media-stack/` son los logos oficiales de cada proyecto, copiados acá
 para que las notificaciones no dependan de que un repo ajeno mueva un archivo.
